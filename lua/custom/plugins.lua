@@ -14,7 +14,8 @@ local plugins = {
         "prettierd",
         "tailwindcss-language-server",
         "typescript-language-server",
-        "emmet-language-server"
+        "emmet-language-server",
+        "clangd"
       },
     },
   },
